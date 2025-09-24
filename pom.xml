@@ -75,7 +75,7 @@
     </dependencies>
 
     <build>
-    <finalName>springapp1.war</finalName>
+    <finalName>springapp1</finalName>
     <plugins>
         <plugin>
             <groupId>org.springframework.boot</groupId>
